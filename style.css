@@ -130,7 +130,7 @@ body { font-family: var(--font-body); background: var(--bg); color: var(--text);
 /* ── Player ── */
 .player-container {
   position: relative;
-  width: 106%;
+  width: 105%;
   padding-bottom: 56.25%;
   background: #000;
   border-radius: var(--radius);
